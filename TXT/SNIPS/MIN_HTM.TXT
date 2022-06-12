@@ -1,0 +1,8 @@
+<!DOCTYPE HTML><html><head><title>     THE_TITLE_HERE   </title> 
+
+	<script 
+				src    ="SRC.JS" 
+				charset="UTF-8"
+	></script>
+
+</head><body></body></html> <!-- /////////////////////////// -->
